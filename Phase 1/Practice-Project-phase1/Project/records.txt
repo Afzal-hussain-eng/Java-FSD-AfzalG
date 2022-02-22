@@ -1,0 +1,6 @@
+1,Afzal,23,UBL
+2,Anu,23,DVG
+3,Baba,22,UBL
+4,Dinga,22,BGM
+5,Umme,22,MYS
+1,Afzal,22,Hub

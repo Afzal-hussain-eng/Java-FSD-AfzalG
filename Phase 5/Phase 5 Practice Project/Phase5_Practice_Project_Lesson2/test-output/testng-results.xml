@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-10T19:04:01Z" name="Default suite" finished-at="2022-03-10T19:04:59Z" duration-ms="57629">
+    <groups>
+    </groups>
+    <test started-at="2022-03-10T19:04:01Z" name="Default test" finished-at="2022-03-10T19:04:59Z" duration-ms="57629">
+      <class name="com.afzal.phase5.RegestrationForm">
+        <test-method signature="invokeBrowser()[pri:0, instance:com.afzal.phase5.RegestrationForm@27e47833]" started-at="2022-03-10T19:04:01Z" name="invokeBrowser" finished-at="2022-03-10T19:04:59Z" duration-ms="57584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+      </class> <!-- com.afzal.phase5.RegestrationForm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
